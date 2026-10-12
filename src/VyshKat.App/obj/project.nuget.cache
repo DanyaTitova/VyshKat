@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TAhsQWXYFcg=",
+  "success": true,
+  "projectFilePath": "/Users/dstitanic/Desktop/VyshKat/src/VyshKat.App/VyshKat.App.csproj",
+  "expectedPackageFiles": [
+    "/Users/dstitanic/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "/Users/dstitanic/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
